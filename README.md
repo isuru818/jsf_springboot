@@ -1,4 +1,5 @@
-JSF - Spring Boot Template For Your organization=================================================================n
+JSF - Spring Boot Template For Your organization
+=================================================================
 
 * This sample code contain template for Spring boot - JSF
 * You can download code and change following configuration and adept to your business
